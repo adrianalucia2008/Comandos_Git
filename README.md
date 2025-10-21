@@ -170,5 +170,3 @@ Lo importante es **entender qué hace cada comando** antes de usarlo.
 
 ---
 
-¿Quieres que te lo guarde como archivo `.md` descargable (por ejemplo `README.md`) para que lo uses directamente en tu proyecto?
-```
